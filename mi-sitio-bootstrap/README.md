@@ -1,11 +1,14 @@
-# Proyecto Bootstrap 5
+# Mi Sitio Bootstrap
 
-Página web responsiva creada con Bootstrap 5 y CSS3 avanzado.
+Proyecto académico desarrollado como parte de la actividad de CSS3 avanzado y Bootstrap 5.
 
-## Tecnologías
+## Objetivo
+Crear una página web moderna, responsiva y publicada en GitHub Pages.
+
+## Tecnologías Utilizadas
 - HTML5
 - CSS3
 - Bootstrap 5
 
-## Publicación
-Proyecto publicado usando GitHub Pages.
+## Enlace a la página desplegada
+https://josselcardozo.github.io/mi-sitio-bootstrap/
